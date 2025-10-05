@@ -25,15 +25,3 @@ My old account **[@Zakarya525](https://github.com/Zakarya525)** is **locked** an
 **This is my official new account** – Follow me here! 🚀
 
 ---
-
-### 📂 Want to see my previous projects?
-
-[![View All Projects](https://img.shields.io/badge/🔗_Click_to_See_All_My_Projects-Previous_Account-00D9FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Zakarya525?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
