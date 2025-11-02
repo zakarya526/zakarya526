@@ -6,18 +6,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-## ⚠️ Account Migration Notice
-
-<table>
-<tr>
-<td>
-
-### 🔒 Previous Account Locked
-
-My old account **[@Zakarya525](https://github.com/Zakarya525)** is **locked** and no longer accessible.
-
-**This is my official new account** – Follow me here! 🚀
