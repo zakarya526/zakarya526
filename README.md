@@ -5,13 +5,12 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Muhammad Zakarya! 
-*Full Stack Mobile/Web Engineer*
+*Full-Stack Mobile & Web Engineer | 4+ Years of Expertise*
 
 <br clear="right"/>
 
 <!--Intro-->               
-I am a Full-Stack Developer passionate about React Native, Next.js, and creating seamless digital experiences.
-
+Full-Stack Engineer building exceptional web and mobile experiences with React Native, Next.js, and Node.js. I bridge design and functionality to create applications that users love and businesses rely on.
 
 <!--Languages and Tools-->       
 <h3>🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3> 
