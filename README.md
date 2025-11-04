@@ -4,7 +4,7 @@
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Muhammad Zakarya! 
+#   ɪ'ᴍ Muhammad Zakarya <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 *Full-Stack Mobile & Web Engineer | 4+ Years of Expertise*
 
 <br clear="right"/>
