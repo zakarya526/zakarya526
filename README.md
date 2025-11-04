@@ -13,7 +13,7 @@
 Full-Stack Engineer building exceptional web and mobile experiences with React Native, Next.js, and Node.js. I bridge design and functionality to create applications that users love and businesses rely on.
 
 <!--Languages and Tools-->       
-<h3>🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3> 
+<h3>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3> 
 <img width="500px" src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,firebase,mongodb,git,vscode,figma,docker&perline=6" />
 
 
