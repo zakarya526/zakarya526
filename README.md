@@ -1,6 +1,6 @@
 # Muhammad Zakarya
 
-**Senior Full-Stack Engineer** · React Native · Next.js · Node.js
+**Senior Full-Stack Software Engineer**
 
 I build production systems that serve real users — mobile apps, multi-tenant platforms, and developer tooling powered by AI agents. 5+ years of shipping code that works at scale.
 
