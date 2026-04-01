@@ -40,11 +40,22 @@ I work across the full stack — from native mobile UIs to backend services and 
 
 ---
 
-<details>
-<summary><b>GitHub Stats</b></summary>
-<br/>
-<p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammad-zakarya&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=24292f&text_color=57606a" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zakarya&theme=default&hide_border=true" />
+<p align="center">
+  <img src="profile/github-stats.svg" alt="GitHub Stats" />
 </p>
-</details>
+
+<p align="center">
+  <img src="profile/languages.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="profile/achievements.svg" alt="Achievements" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zakarya526&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakarya526&theme=github-compact" alt="Activity Graph" />
+</p>
