@@ -2,9 +2,7 @@
 
 **Software Engineer**
 
-I build and maintain software across backend systems, web, and mobile. My work spans APIs, data modeling, cloud services, and integrations — from implementation through production.
-
-Working with **TypeScript**, **Node.js**, **PostgreSQL**, **React Native**, and **Next.js**.
+I build products and the systems behind them, from early ideas to production. I care about simple design, clear trade-offs, and getting the details right.
 
 ---
 
